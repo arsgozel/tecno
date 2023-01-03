@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-ExtraLight.ttf);
+  font-style: normal;
+  font-weight: 200;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-ExtraLightItalic.ttf);
+  font-style: italic;
+  font-weight: 200;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-Light.ttf);
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-LightItalic.ttf);
+  font-style: italic;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-Regular.ttf);
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-Italic.ttf);
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-SemiBold.ttf);
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-SemiBoldItalic.ttf);
+  font-style: italic;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-Bold.ttf);
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-BoldItalic.ttf);
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-Black.ttf);
+  font-style: normal;
+  font-weight: 900;
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../font/SourceSansPro-BlackItalic.ttf);
+  font-style: italic;
+  font-weight: 900;
+}
+body {
+  font-family: "SourceSansPro", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.text-gold {
+  color: 	rgb(218,165,32);
+}
